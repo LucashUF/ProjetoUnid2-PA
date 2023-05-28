@@ -67,9 +67,9 @@ int main() {
     sauron.putEllipsoid(halfR, 0, halfR, 100, 1, 100);
 
     //create file.off
-    sauron.writeOFF("Barad-Dur.off");
+    sauron.writeOFF("Torre de Sauron.off");
 
-    std::cout << "aasdhaHFASKJFGASJKFBSAKJVHGASJKDVa" << std::endl;
+    std::cout << "aaaa" << std::endl;
 
     return 0;
 }
